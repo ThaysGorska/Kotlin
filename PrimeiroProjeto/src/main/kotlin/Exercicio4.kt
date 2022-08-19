@@ -1,19 +1,19 @@
 fun main (){
 
-    var resultado: Int = 0
+    var res: Int = 0
 
     println("Digite um número: ")
-    var num1: Int = readLine()!!.toInt()
+    var n1: Int = readln().toInt()
 
-    println("Digite outro número: ")
-    var num2: Int = readLine()!!.toInt()
+    println("Digite um número: ")
+    var n2: Int = readln().toInt()
 
-    resultado = num1 + num2
+    res = n1 + n2
 
-    if (resultado % 2 == 0) {
-        println("A soma dos dois números é: " +resultado + " e o número é Par")
+    if (res % 2 == 0) {
+        println("A soma dos dois números é: $res e ele é Par")
     } else {
-        println("A soma dos dois números é: " +resultado + " e o número é Ímpar")
+        println("A soma dos dois números é: $res e ele é Ímpar")
     }
 
 }
