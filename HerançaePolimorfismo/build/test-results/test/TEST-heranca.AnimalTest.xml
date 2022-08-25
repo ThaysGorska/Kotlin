@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="heranca.AnimalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-25T14:55:36" hostname="DESKTOP-3VRBNEH" time="0.014">
+  <properties/>
+  <testcase name="mostrarDados()" classname="heranca.AnimalTest" time="0.014"/>
+  <system-out><![CDATA[O nome do animal é: Patrício 
+O animal tem: 27 anos
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

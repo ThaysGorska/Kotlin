@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Teste" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-25T14:41:44" hostname="DESKTOP-3VRBNEH" time="0.03">
+  <properties/>
+  <testcase name="addTeste()" classname="Teste" time="0.025"/>
+  <testcase name="remTeste()" classname="Teste" time="0.001"/>
+  <testcase name="mostrar()" classname="Teste" time="0.003"/>
+  <system-out><![CDATA[*****Sacola de Compras*****
+
+Nescau
+Tomate
+Escarola
+Maracujá
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
